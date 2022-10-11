@@ -1,0 +1,14 @@
+{
+  "name": "space-game",
+  "version": "1.0.0",
+  "description": "Space game where you have to reach Mars.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "space"
+  ],
+  "author": "",
+  "license": "ISC"
+}
