@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+h1 {
+    margin:15px 0 15px 0;
+
+}
+
+.space-canvas {
+ 
+    background-color:black
+    /* cursor: none; */
+}
+
